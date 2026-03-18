@@ -1,6 +1,6 @@
 # Network-Traffic-Analysis-Wireshark-Nmap
 Developed a network traffic analysis project using Wireshark and Nmap to identify active devices, analyze DNS queries, and evaluate high-traffic endpoints.
-# 📡 Network Traffic Analysis using Wireshark & Nmap
+# Network Traffic Analysis using Wireshark & Nmap
 
 ## Overview
 
@@ -14,13 +14,13 @@ This project analyzes network traffic within a local subnet using Wireshark and 
 * Analyze high-traffic endpoints
 * Understand network behavior patterns
 
-## 🧰 Tools Used
+## Tools Used
 
 * Wireshark
 * Nmap
 * Windows Command Prompt
 
-## 🔍 Methodology
+## Methodology
 
 ### 1. Device Discovery
 
