@@ -73,6 +73,10 @@ The network shows normal behavior with no suspicious activity. Most traffic is e
 ## Screenshots
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/fde66d2d-f1e8-4ef8-b207-5ce51e99cdaa" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/6b5538dd-c99e-4559-a387-15278267fd88" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6b4c479-76e4-4e42-9f28-83088bfd4283" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89219845-08e5-4d48-8424-11db4cc824b2" />
+
+
 
 
 
